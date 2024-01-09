@@ -1,0 +1,15 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+        "title": "Contact API",
+        "description": "Contact API",
+        "version": "1.0"
+    },
+    "servers": [
+        {
+            "url": "https://localhost:8000"
+        }
+    ],
+    "paths": {}
+}
+// menit 25:51
